@@ -1,0 +1,370 @@
+2025-03-29 02:08:44,402 - models - INFO - Loading model from model.pkl
+2025-03-29 02:08:44,441 - werkzeug - INFO -  * Restarting with stat
+2025-03-29 02:08:46,058 - models - INFO - Loading model from model.pkl
+2025-03-29 02:08:46,078 - werkzeug - WARNING -  * Debugger is active!
+2025-03-29 02:08:46,091 - werkzeug - INFO -  * Debugger PIN: 361-777-928
+2025-03-29 02:08:46,742 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-29 02:29:13,240 - models - INFO - Loading model from model.pkl
+2025-03-29 02:29:13,273 - werkzeug - INFO -  * Restarting with stat
+2025-03-29 02:29:14,904 - models - INFO - Loading model from model.pkl
+2025-03-29 02:29:14,921 - werkzeug - WARNING -  * Debugger is active!
+2025-03-29 02:29:14,930 - werkzeug - INFO -  * Debugger PIN: 361-777-928
+2025-03-29 02:29:15,379 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-29 02:30:26,785 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:30:26] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:30:27,052 - __main__ - INFO - Prediction made: kidneybeans
+2025-03-29 02:30:27,054 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:30:27] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:30:46,874 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:30:46] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:30:47,194 - __main__ - INFO - Prediction made: muskmelon
+2025-03-29 02:30:47,196 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:30:47] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:31:53,933 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:31:53] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:31:54,176 - __main__ - INFO - Prediction made: chickpea
+2025-03-29 02:31:54,177 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:31:54] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:32:12,322 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:32:12] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:32:12,639 - __main__ - INFO - Prediction made: apple
+2025-03-29 02:32:12,641 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:32:12] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:35:51,958 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:35:51] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:35:52,217 - __main__ - INFO - Prediction made: coconut
+2025-03-29 02:35:52,218 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:35:52] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:45:59,358 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:45:59] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:45:59,630 - __main__ - INFO - Prediction made: apple
+2025-03-29 02:45:59,631 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:45:59] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:47:22,330 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:47:22] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:47:22,602 - __main__ - INFO - Prediction made: papaya
+2025-03-29 02:47:22,603 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:47:22] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:50:22,403 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:50:22] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:50:22,671 - __main__ - INFO - Prediction made: apple
+2025-03-29 02:50:22,672 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:50:22] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:56:56,962 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:56:56] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:56:57,219 - __main__ - INFO - Prediction made: apple
+2025-03-29 02:56:57,220 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:56:57] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 02:57:26,549 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:57:26] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 02:57:26,876 - __main__ - INFO - Prediction made: apple
+2025-03-29 02:57:26,877 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 02:57:26] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 22:58:24,318 - models - INFO - Loading model from model.pkl
+2025-03-29 22:58:24,357 - werkzeug - INFO -  * Restarting with stat
+2025-03-29 22:58:25,442 - models - INFO - Loading model from model.pkl
+2025-03-29 22:58:25,459 - werkzeug - WARNING -  * Debugger is active!
+2025-03-29 22:58:25,477 - werkzeug - INFO -  * Debugger PIN: 361-777-928
+2025-03-29 22:58:26,164 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-29 22:59:13,174 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 22:59:13] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 22:59:13,476 - __main__ - INFO - Prediction made: orange
+2025-03-29 22:59:13,477 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 22:59:13] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 23:02:45,201 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:02:45] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 23:02:45,471 - __main__ - INFO - Prediction made: muskmelon
+2025-03-29 23:02:45,472 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:02:45] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 23:03:30,361 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:03:30] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 23:03:30,696 - __main__ - INFO - Prediction made: apple
+2025-03-29 23:03:30,697 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:03:30] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 23:07:03,740 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:07:03] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 23:07:03,995 - __main__ - INFO - Prediction made: muskmelon
+2025-03-29 23:07:03,995 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:07:03] "POST /api/predict HTTP/1.1" 200 -
+2025-03-29 23:12:04,903 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:12:04] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-29 23:12:05,171 - __main__ - INFO - Prediction made: apple
+2025-03-29 23:12:05,172 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 23:12:05] "POST /api/predict HTTP/1.1" 200 -
+2025-03-30 00:05:45,999 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 00:05:45] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-30 00:05:46,260 - __main__ - INFO - Prediction made: apple
+2025-03-30 00:05:46,262 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 00:05:46] "POST /api/predict HTTP/1.1" 200 -
+2025-03-30 00:05:53,601 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 00:05:53] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-30 00:05:53,926 - __main__ - INFO - Prediction made: muskmelon
+2025-03-30 00:05:53,927 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 00:05:53] "POST /api/predict HTTP/1.1" 200 -
+2025-03-30 23:22:01,531 - models - INFO - Loading model from model.pkl
+2025-03-30 23:22:01,609 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:22:03,156 - models - INFO - Loading model from model.pkl
+2025-03-30 23:22:03,214 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:22:03,219 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:22:03,351 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:23:08,472 - __main__ - INFO - Processing question about rice
+2025-03-30 23:23:09,056 - __main__ - ERROR - Error in Gemini AI processing: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:23:09,057 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:23:09] "[35m[1mPOST /api/ask HTTP/1.1[0m" 500 -
+2025-03-30 23:23:49,788 - models - INFO - Loading model from model.pkl
+2025-03-30 23:23:49,859 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:23:51,480 - models - INFO - Loading model from model.pkl
+2025-03-30 23:23:51,544 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:23:51,550 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:23:51,682 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:23:54,229 - __main__ - INFO - Processing question about rice
+2025-03-30 23:23:54,674 - __main__ - ERROR - Error in Gemini AI processing: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:23:54,675 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:23:54] "[35m[1mPOST /api/ask HTTP/1.1[0m" 500 -
+2025-03-30 23:24:50,768 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:24:52,982 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:24:54,575 - models - INFO - Loading model from model.pkl
+2025-03-30 23:24:54,644 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:24:54,650 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:24:54,783 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:24:58,027 - __main__ - INFO - Processing question about rice: What is the best time to plant rice in Punjab regi...
+2025-03-30 23:24:58,027 - __main__ - INFO - Sending request to Gemini API
+2025-03-30 23:24:58,484 - __main__ - ERROR - Gemini API specific error: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:24:58,485 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:24:58] "[35m[1mPOST /api/ask HTTP/1.1[0m" 500 -
+2025-03-30 23:25:26,607 - models - INFO - Loading model from model.pkl
+2025-03-30 23:25:26,677 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:25:28,258 - models - INFO - Loading model from model.pkl
+2025-03-30 23:25:28,322 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:25:28,328 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:25:28,459 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:25:30,712 - __main__ - INFO - Processing question about rice: What is the best time to plant rice in Punjab regi...
+2025-03-30 23:25:30,713 - __main__ - INFO - Sending request to Gemini API
+2025-03-30 23:25:31,163 - __main__ - ERROR - Gemini API specific error: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:25:31,164 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:25:31] "[35m[1mPOST /api/ask HTTP/1.1[0m" 500 -
+2025-03-30 23:25:57,282 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\test_gemini.py', reloading
+2025-03-30 23:25:59,501 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:26:01,111 - models - INFO - Loading model from model.pkl
+2025-03-30 23:26:01,173 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:26:01,178 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:26:01,330 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:31:47,132 - models - INFO - Loading model from model.pkl
+2025-03-30 23:31:47,141 - __main__ - INFO - Configuring Gemini AI with API key: YOUR..._KEY
+2025-03-30 23:31:47,141 - __main__ - INFO - Using Gemini model: gemini-1.5-pro
+2025-03-30 23:31:47,636 - __main__ - ERROR - Failed to initialize model gemini-1.5-pro: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:31:47,648 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:31:49,404 - models - INFO - Loading model from model.pkl
+2025-03-30 23:31:49,415 - __main__ - INFO - Configuring Gemini AI with API key: YOUR..._KEY
+2025-03-30 23:31:49,415 - __main__ - INFO - Using Gemini model: gemini-1.5-pro
+2025-03-30 23:31:49,916 - __main__ - ERROR - Failed to initialize model gemini-1.5-pro: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:31:49,926 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:31:49,931 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:31:50,068 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:31:51,713 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:31:51] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:31:55,467 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:31:55] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:32:39,179 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\reset_gemini.py', reloading
+2025-03-30 23:32:41,531 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:32:43,330 - models - INFO - Loading model from model.pkl
+2025-03-30 23:32:43,340 - __main__ - INFO - API Key length: 19
+2025-03-30 23:32:43,340 - __main__ - INFO - API Key prefix: YOUR...
+2025-03-30 23:32:43,340 - __main__ - INFO - Configuring Gemini AI with model: gemini-1.5-pro
+2025-03-30 23:32:43,340 - __main__ - INFO - Testing Gemini API connection...
+2025-03-30 23:32:43,847 - __main__ - ERROR - Failed to initialize Gemini model: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:32:43,857 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:32:43,862 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:32:43,995 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:33:27,489 - models - INFO - Loading model from model.pkl
+2025-03-30 23:33:27,498 - __main__ - INFO - API Key length: 19
+2025-03-30 23:33:27,498 - __main__ - INFO - API Key prefix: YOUR...
+2025-03-30 23:33:27,498 - __main__ - INFO - Configuring Gemini AI with model: gemini-1.5-pro
+2025-03-30 23:33:27,498 - __main__ - INFO - Testing Gemini API connection...
+2025-03-30 23:33:27,984 - __main__ - ERROR - Failed to initialize Gemini model: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:33:27,995 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:33:29,610 - models - INFO - Loading model from model.pkl
+2025-03-30 23:33:29,619 - __main__ - INFO - API Key length: 19
+2025-03-30 23:33:29,620 - __main__ - INFO - API Key prefix: YOUR...
+2025-03-30 23:33:29,620 - __main__ - INFO - Configuring Gemini AI with model: gemini-1.5-pro
+2025-03-30 23:33:29,620 - __main__ - INFO - Testing Gemini API connection...
+2025-03-30 23:33:31,369 - __main__ - ERROR - Failed to initialize Gemini model: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:33:31,379 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:33:31,384 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:33:31,524 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:33:34,837 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:33:34] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:33:40,245 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:33:40] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:33:41,610 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:33:41] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:34:28,482 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\simple_gemini_test.py', reloading
+2025-03-30 23:34:30,758 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:34:32,694 - models - INFO - Loading model from model.pkl
+2025-03-30 23:34:32,703 - __main__ - INFO - API Key length: 19
+2025-03-30 23:34:32,704 - __main__ - INFO - API Key prefix: YOUR...
+2025-03-30 23:34:32,704 - __main__ - INFO - Configuring Gemini AI with model: gemini-1.5-pro
+2025-03-30 23:34:32,704 - __main__ - INFO - Testing Gemini API connection...
+2025-03-30 23:34:33,194 - __main__ - ERROR - Failed to initialize Gemini model: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:34:33,205 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:34:33,210 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:34:33,346 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:34:37,989 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:34:40,168 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:34:41,789 - models - INFO - Loading model from model.pkl
+2025-03-30 23:34:41,797 - __main__ - INFO - Initializing Gemini AI...
+2025-03-30 23:34:41,798 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-30 23:34:41,798 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-30 23:34:41,798 - __main__ - INFO - Testing Gemini connection...
+2025-03-30 23:34:44,642 - __main__ - INFO - Gemini test successful: This is a test.  How can I help you?  Do you have something more specific you'd like me to do with this test?  For example, do you want me to:
+
+* **Elaborate on something?**  Tell me what.
+* **Answer a question?** Ask away!
+* **Generate some text?**  Give me a prompt.
+* **Translate something?**  Provide the text and target language.
+* **Summarize something?**  Give me the text.
+
+Let me know!
+
+2025-03-30 23:34:44,652 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:34:44,657 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:34:44,790 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:36:10,086 - __main__ - INFO - Processing question about rice: What is the best time to plant rice in Punjab regi...
+2025-03-30 23:36:10,087 - __main__ - INFO - Sending request to Gemini API
+2025-03-30 23:36:18,372 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-30 23:36:18,373 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:36:18] "POST /api/ask HTTP/1.1" 200 -
+2025-03-30 23:38:30,656 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\reset_gemini.py', reloading
+2025-03-30 23:38:32,996 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:38:34,528 - models - INFO - Loading model from model.pkl
+2025-03-30 23:38:34,537 - __main__ - INFO - Initializing Gemini AI...
+2025-03-30 23:38:34,537 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-30 23:38:34,537 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-30 23:38:34,538 - __main__ - INFO - Testing Gemini connection...
+2025-03-30 23:39:33,099 - __main__ - ERROR - ERROR initializing Gemini: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:172.217.174.74:443: tcp handshaker shutdown
+2025-03-30 23:39:33,108 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:39:33,114 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:39:33,243 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:44:17,355 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:44:17] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:44:22,092 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:44:22] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:44:27,726 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:44:30,004 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:44:31,787 - models - INFO - Loading model from model.pkl
+2025-03-30 23:44:31,796 - __main__ - INFO - API Key length: 19
+2025-03-30 23:44:31,796 - __main__ - INFO - API Key prefix: YOUR...
+2025-03-30 23:44:31,797 - __main__ - INFO - Configuring Gemini AI with model: gemini-1.5-pro
+2025-03-30 23:44:31,797 - __main__ - INFO - Testing Gemini API connection...
+2025-03-30 23:44:33,564 - __main__ - ERROR - Failed to initialize Gemini model: 400 API key not valid. Please pass a valid API key.
+2025-03-30 23:44:33,574 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:44:33,580 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:44:33,722 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:44:34,024 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:44:34] "[35m[1mPOST /api/ask HTTP/1.1[0m" 503 -
+2025-03-30 23:44:45,223 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:44:47,394 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:44:49,029 - models - INFO - Loading model from model.pkl
+2025-03-30 23:44:49,037 - __main__ - INFO - Initializing Gemini AI...
+2025-03-30 23:44:49,037 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-30 23:44:49,038 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-30 23:44:49,038 - __main__ - INFO - Testing Gemini connection...
+2025-03-30 23:44:53,152 - __main__ - INFO - Gemini test successful: Okay.  How can I help you test something?  I need more information.  For example, tell me:
+
+* **What do you want to test?** (e.g., a piece of code, a math problem, my knowledge on a subject, my ability to generate different creative text formats, etc.)
+* **What is the expected outcome?** (e.g., the code should return a specific value, the answer to the math problem is X, I should be able to answer questions about Y topic, I should be able to write a poem, etc.)
+* **What are the test parameters?** (e.g., specific input values for the code, the constraints of the math problem, the scope of the topic for knowledge questions, the desired style or theme of the creative text, etc.)
+
+
+Provide me with these details, and I'll do my best to help.
+
+2025-03-30 23:44:53,163 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:44:53,169 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:44:53,318 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:44:53,419 - __main__ - INFO - Processing question about mango: how much can i get with 1000 seeds...
+2025-03-30 23:44:53,419 - __main__ - INFO - Sending request to Gemini API
+2025-03-30 23:45:05,381 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-30 23:45:05,382 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:45:05] "POST /api/ask HTTP/1.1" 200 -
+2025-03-30 23:46:25,453 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:46:27,643 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:46:29,188 - models - INFO - Loading model from model.pkl
+2025-03-30 23:46:29,197 - __main__ - INFO - Initializing Gemini AI...
+2025-03-30 23:46:29,197 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-30 23:46:29,197 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-30 23:46:29,198 - __main__ - INFO - Testing Gemini connection...
+2025-03-30 23:46:32,582 - __main__ - INFO - Gemini test successful: Okay.  How can I help you test something?  Please provide me with more information, like:
+
+* **What do you want to test?** (e.g., a piece of code, a mathematical equation, my knowledge on a specific topic, my ability to generate different kinds of text)
+* **What are the expected results?** (e.g., the code should return a specific value, the equation should equal a certain number, I should provide accurate information)
+* **What are the test inputs or conditions?** (e.g., specific input values for the code, parameters for the equation, the question you want to ask me)
+
+
+The more details you give me, the better I can assist you with your test.
+
+2025-03-30 23:46:32,592 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:46:32,598 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:46:32,735 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-30 23:46:33,310 - __main__ - INFO - Processing question about mango: how much can i get with 1000 seeds...
+2025-03-30 23:46:33,311 - __main__ - INFO - Sending request to Gemini API
+2025-03-30 23:46:35,682 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-30 23:46:35,683 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 23:46:35] "POST /api/ask HTTP/1.1" 200 -
+2025-03-30 23:50:01,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-30 23:50:03,468 - werkzeug - INFO -  * Restarting with stat
+2025-03-30 23:50:05,074 - models - INFO - Loading model from model.pkl
+2025-03-30 23:50:05,083 - __main__ - INFO - Initializing Gemini AI...
+2025-03-30 23:50:05,083 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-30 23:50:05,083 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-30 23:50:05,083 - __main__ - INFO - Testing Gemini connection...
+2025-03-30 23:50:08,805 - __main__ - INFO - Gemini test successful: Okay, I'm ready.  What do you want me to test?  Please provide me with instructions or a specific task.  For example, you could ask me to:
+
+* **Test my knowledge:**  Ask me a question on any topic.
+* **Test my abilities:** Ask me to write a poem, summarize text, translate something, or generate different creative text formats.  (e.g., "Write a limerick about a cat.")
+* **Test my coding skills:** Give me a coding task in a specific language (e.g., "Write a Python function that reverses a string.")
+* **Test my reasoning:** Give me a logic puzzle or a scenario to analyze.
+
+I'm eager to see what you have in mind!
+
+2025-03-30 23:50:08,815 - werkzeug - WARNING -  * Debugger is active!
+2025-03-30 23:50:08,819 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-30 23:50:08,949 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-31 00:02:12,504 - __main__ - INFO - Processing question about rice in Hindi: What is the best time to plant rice in Punjab regi...
+2025-03-31 00:02:12,504 - __main__ - INFO - Sending request to Gemini API (language: Hindi)
+2025-03-31 00:02:16,304 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:02:16,306 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:02:16] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 00:02:30,699 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-03-31 00:02:32,917 - werkzeug - INFO -  * Restarting with stat
+2025-03-31 00:02:34,471 - models - INFO - Loading model from model.pkl
+2025-03-31 00:02:34,480 - __main__ - INFO - Initializing Gemini AI...
+2025-03-31 00:02:34,481 - __main__ - WARNING - Environment API key not found or invalid, using fallback key
+2025-03-31 00:02:34,481 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-03-31 00:02:34,481 - __main__ - INFO - Testing Gemini connection...
+2025-03-31 00:02:35,703 - __main__ - INFO - Gemini test successful: This is a successful test.  I'm ready for your next request.
+
+2025-03-31 00:02:35,712 - werkzeug - WARNING -  * Debugger is active!
+2025-03-31 00:02:35,717 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-03-31 00:02:35,849 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-31 00:07:38,811 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:07:38] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-31 00:07:39,085 - __main__ - INFO - Prediction made: muskmelon
+2025-03-31 00:07:39,086 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:07:39] "POST /api/predict HTTP/1.1" 200 -
+2025-03-31 00:19:15,188 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:19:15] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-03-31 00:19:15,450 - __main__ - INFO - Processing question about muskmelon in Hindi: Hey...
+2025-03-31 00:19:15,451 - __main__ - INFO - Sending request to Gemini API (language: Hindi)
+2025-03-31 00:19:18,483 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:19:18,484 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:19:18] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 00:19:49,811 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:19:49] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-03-31 00:19:50,121 - __main__ - INFO - Processing question about muskmelon in English: what is succes ratio of 1000 seeds?...
+2025-03-31 00:19:50,121 - __main__ - INFO - Sending request to Gemini API (language: English)
+2025-03-31 00:19:52,359 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:19:52,360 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:19:52] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 00:24:46,277 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:24:46] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-03-31 00:24:46,540 - __main__ - INFO - Processing question about muskmelon in English: What is the best season to grow muskmelon?...
+2025-03-31 00:24:46,541 - __main__ - INFO - Sending request to Gemini API (language: English)
+2025-03-31 00:24:48,601 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:24:48,602 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:24:48] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 00:27:13,995 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:27:13] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-03-31 00:27:14,258 - __main__ - INFO - Processing question about muskmelon in English: Common diseases that affect muskmelon?...
+2025-03-31 00:27:14,259 - __main__ - INFO - Sending request to Gemini API (language: English)
+2025-03-31 00:27:16,271 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:27:16,272 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:27:16] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 00:40:58,918 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:40:58] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-03-31 00:40:59,188 - __main__ - INFO - Prediction made: muskmelon
+2025-03-31 00:40:59,189 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:40:59] "POST /api/predict HTTP/1.1" 200 -
+2025-03-31 00:41:41,164 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:41:41] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-03-31 00:41:41,478 - __main__ - INFO - Processing question about muskmelon in English: How frequently should I water muskmelon?...
+2025-03-31 00:41:41,479 - __main__ - INFO - Sending request to Gemini API (language: English)
+2025-03-31 00:41:43,648 - __main__ - INFO - Successfully received response from Gemini API
+2025-03-31 00:41:43,649 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 00:41:43] "POST /api/ask HTTP/1.1" 200 -
+2025-03-31 01:07:06,254 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rsr00\\Downloads\\code\\kissanexpert\\backend\\app.py', reloading
+2025-04-01 21:58:35,871 - models - INFO - Loading model from model.pkl
+2025-04-01 21:58:35,899 - __main__ - INFO - Initializing Gemini AI...
+2025-04-01 21:58:35,899 - __main__ - INFO - Using API key from environment: AIza...1Ta8
+2025-04-01 21:58:35,900 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-04-01 21:58:35,900 - __main__ - INFO - Testing Gemini connection...
+2025-04-01 21:58:39,096 - __main__ - INFO - Gemini test successful: Okay, I'm ready. What do you want me to test?  Please provide me with instructions.  For example, you could ask me to:
+
+* **Test my knowledge:**  "What is the capital of France?"
+* **Test my abilities:** "Write a short poem about a cat."
+* **Test my code generation:** "Write a Python function that calculates the factorial of a number."
+* **Test my reasoning:** "If all squares are rectangles, are all rectangles squares? Explain."
+
+I'm waiting for your input!
+
+2025-04-01 21:58:39,119 - werkzeug - INFO -  * Restarting with stat
+2025-04-01 21:58:41,237 - models - INFO - Loading model from model.pkl
+2025-04-01 21:58:41,247 - __main__ - INFO - Initializing Gemini AI...
+2025-04-01 21:58:41,248 - __main__ - INFO - Using API key from environment: AIza...1Ta8
+2025-04-01 21:58:41,248 - __main__ - INFO - Configuring Gemini with model gemini-1.5-pro
+2025-04-01 21:58:41,248 - __main__ - INFO - Testing Gemini connection...
+2025-04-01 21:58:44,153 - __main__ - INFO - Gemini test successful: Okay.  I'm ready. What do you want me to test?  Please provide me with instructions.  For example, you could ask me to:
+
+* **Test my knowledge:** "What is the capital of France?"
+* **Test my abilities:** "Write a short poem about a cat."
+* **Test my coding skills:** "Write a Python function that reverses a string."
+* **Test my reasoning:** "If all squares are rectangles, are all rectangles squares?"
+
+I'm eager to see what you have in mind!
+
+2025-04-01 21:58:44,165 - werkzeug - WARNING -  * Debugger is active!
+2025-04-01 21:58:44,275 - werkzeug - INFO -  * Debugger PIN: 116-904-832
+2025-04-01 21:58:44,425 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-04-01 22:07:19,126 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:07:19] "OPTIONS /api/predict HTTP/1.1" 200 -
+2025-04-01 22:07:19,380 - __main__ - INFO - Prediction made: muskmelon
+2025-04-01 22:07:19,381 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:07:19] "POST /api/predict HTTP/1.1" 200 -
+2025-04-01 22:07:58,585 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:07:58] "OPTIONS /api/ask HTTP/1.1" 200 -
+2025-04-01 22:07:58,833 - __main__ - INFO - Processing question about muskmelon in English: How frequently should I water muskmelon?...
+2025-04-01 22:07:58,834 - __main__ - INFO - Sending request to Gemini API (language: English)
+2025-04-01 22:08:00,922 - __main__ - INFO - Successfully received response from Gemini API
+2025-04-01 22:08:00,922 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:08:00] "POST /api/ask HTTP/1.1" 200 -

@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Logs
+app.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
